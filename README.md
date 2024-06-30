@@ -1,2 +1,38 @@
 # Tailwind-CSS-Tutorial
 A step by step complete guide on how to set up Tailwind css and create an example Tailwind css project
+
+## Steps:
+
+•	Make an empty folder for tailwind css learning, open in vscode. </br>
+•	In terminal, write npx tailwindcss init  //it will create a file : tailwind.config.js </br>
+•	Create build/index.html</br>
+•	Create src/ </br>
+</br>
+•	In tailwind.config.js, in content: [‘.build/*.html’] </br>
+</br>
+•	Create src/input.css, and paste this
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* we can define our own tailwindcss classes here */
+</br>
+</br>
+•	Then in terminal, write this: npx tailwindcss -i ./src/input.css -o ./build/css/style.css
+•	./build/css/style.css is created and it has some css code
+</br></br>
+•	Link that file with your index.html
+</br>
+•	In index.html, in <body> tag, write div.bg-emerald-500.w-52.h-52 and enter.   
+// this is a tailwindcss class </br>
+•	In terminal, write : npx tailwindcss -i ./src/input.css -o ./build/css/style.css --watch
+Code is running, and open in live server.
+•	Install Tailwind css intellisence extension for better view of the html code.
+•	So while using tailwind css, you only need to write the class name with the tag name, and the functionality is applied to it, just search what you want to do to on the tailwind css website and write it in the tag.
+
+## Here is an example Tailwind css project:
+
+
+![Bull's Eye using Tailwind css](https://github.com/Faiqa-batool/Tailwind-CSS-Tutorial/assets/115587465/c302cacb-b818-49d9-a39a-60652030a2dc)
+
+
