@@ -24,7 +24,9 @@ A step by step complete guide on how to set up Tailwind css and create an exampl
 /* we can define our own tailwindcss classes here */
 </br>
 </br>
-•	Then in terminal, write this: npx tailwindcss -i ./src/input.css -o ./build/css/style.css
+•	Then in terminal, write this: </br>
+npx tailwindcss -i ./src/input.css -o ./build/css/style.css
+
 •	./build/css/style.css is created and it has some css code
 </br></br>
 •	Link that file with your index.html
