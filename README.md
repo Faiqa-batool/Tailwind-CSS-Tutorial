@@ -16,10 +16,10 @@ A step by step complete guide on how to set up Tailwind css and create an exampl
 //This means apply the Tailwind css on all the '.html' files in 'build' folder.
 </br>
 </br>
-•	Create src/input.css, and paste this
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+•	Create src/input.css, and paste this </br>
+@tailwind base; </br>
+@tailwind components; </br>
+@tailwind utilities; </br>
 
 /* we can define our own tailwindcss classes here */
 </br>
