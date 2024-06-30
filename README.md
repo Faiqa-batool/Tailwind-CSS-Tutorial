@@ -4,7 +4,10 @@ A step by step complete guide on how to set up Tailwind css and create an exampl
 ## Steps:
 
 •	Make an empty folder for tailwind css learning, open in vscode. </br>
-•	In terminal, write npx tailwindcss init  //it will create a file : tailwind.config.js </br>
+</br>
+•	In terminal, write npx tailwindcss init  </br>
+//it will create a file : tailwind.config.js </br>
+</br>
 •	Create build/index.html</br>
 •	Create src/ </br>
 </br>
@@ -25,9 +28,14 @@ A step by step complete guide on how to set up Tailwind css and create an exampl
 </br>
 •	In index.html, in <body> tag, write div.bg-emerald-500.w-52.h-52 and enter.   
 // this is a tailwindcss class </br>
-•	In terminal, write : npx tailwindcss -i ./src/input.css -o ./build/css/style.css --watch
-Code is running, and open in live server.
+</br>
+•	In terminal, write : npx tailwindcss -i ./src/input.css -o ./build/css/style.css --watch </br>
+By using this, the code is running, and open in live server. 
+</br></br>
 •	Install Tailwind css intellisence extension for better view of the html code.
+</br></br>
+• You can also define your custom Tailwindcss classes. </br>
+</br>
 •	So while using tailwind css, you only need to write the class name with the tag name, and the functionality is applied to it, just search what you want to do to on the tailwind css website and write it in the tag.
 
 ## Here is an example Tailwind css project:
