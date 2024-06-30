@@ -13,6 +13,7 @@ A step by step complete guide on how to set up Tailwind css and create an exampl
 •	Create src/ </br>
 </br>
 •	In tailwind.config.js, in content: [‘.build/*.html’] </br>
+//This means apply the Tailwind css on all the '.html' files in 'build' folder.
 </br>
 •	Create src/input.css, and paste this
 @tailwind base;
