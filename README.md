@@ -42,7 +42,7 @@ By using this, the code is running, and now, open in live server.
 </br></br>
 • You can also define your custom Tailwindcss classes. </br>
 </br>
-•	So while using tailwind css, you only need to write the class name with the tag name, and the functionality is applied to it, just search what you want to do to on the tailwind css website and write it in the tag.
+•	So while using tailwind css, you only need to write the class name inside the tag, and the functionality is applied to it, just search what you want to do, on the tailwind css website and write the class name in the tag.
 
 ## Here is an example Tailwind css project:
 
