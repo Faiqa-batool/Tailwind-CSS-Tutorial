@@ -7,6 +7,7 @@ A step by step complete guide on how to set up Tailwind css and create an exampl
 </br>
 •	In terminal, write npx tailwindcss init  </br>
 //it will create a file : tailwind.config.js </br>
+//make sure, you have already installed node.js </br>
 </br>
 •	Create build/index.html</br>
 •	Create src/ </br>
