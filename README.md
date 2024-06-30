@@ -1,5 +1,6 @@
 # Tailwind-CSS-Tutorial
-A step by step complete guide on how to set up Tailwind css and create an example Tailwind css project
+A step by step complete guide on how to set up Tailwind css and create an example Tailwind css project</br>
+Followed this YouTube tutorial: **https://youtu.be/pYaamz6AyvU?si=3pRriJGCcwxB34gR**
 
 ## Steps:
 
