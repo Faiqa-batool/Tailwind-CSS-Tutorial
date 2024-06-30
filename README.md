@@ -34,8 +34,9 @@ npx tailwindcss -i ./src/input.css -o ./build/css/style.css
 •	In index.html, in body tag, write div.bg-emerald-500.w-52.h-52 and enter.   
 // this is a tailwindcss class </br>
 </br>
-•	In terminal, write : npx tailwindcss -i ./src/input.css -o ./build/css/style.css --watch </br>
-By using this, the code is running, and open in live server. 
+•	In terminal, write : </br> 
+npx tailwindcss -i ./src/input.css -o ./build/css/style.css --watch </br>
+By using this, the code is running, and now, open in live server. 
 </br></br>
 •	Install Tailwind css intellisence extension for better view of the html code.
 </br></br>
